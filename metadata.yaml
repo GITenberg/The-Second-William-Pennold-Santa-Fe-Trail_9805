@@ -1,0 +1,30 @@
+_repo: The-Second-William-Pennold-Santa-Fe-Trail_9805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ryus, W. H. (William Henry)
+    alias: Ryus, William Henry
+    birthdate: 1839
+    gutenberg_agent_id: '3146'
+    url: http://www.gutenberg.org/2009/agents/3146
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- West (U.S.)'
+- !lcsh 'Santa Fe National Historic Trail'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcc 'F786'
+- GITenberg
+title: 'The Second William Penn
+
+  A true account of incidents that happened along the
+
+  old Santa Fe Trail'
+url: http://www.gutenberg.org/ebooks/9805
